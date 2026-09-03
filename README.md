@@ -8,7 +8,7 @@ Business consultant turned cybersecurity practitioner. After 10+ years running a
 - 🎯 Aiming toward GRC and SOC roles, with CISO-level leadership as a long-term goal
 
 **Completed:**
-- ✅ AI Cyber Defense Ops (WiCyS / Just Hacking Training) — built a full detection engineering MCP server as capstone (Sigma rules, ATT&CK mappings, Splunk integration, purple team pipeline); certificate issued July 2026
+- ✅ AI Cyber Defense Ops (WiCyS / Just Hacking Training) — built a full detection engineering MCP server as capstone (Sigma rules, ATT&CK mappings, Splunk integration, purple team pipeline)
 - ✅ Built a home security lab (Windows + Splunk + Sysmon) to test detections against real attack simulations
 - ✅ WiCyS Vulnerability Disclosure Program (VDP) Member Researcher — self-led research under WiCyS's Bugcrowd-hosted VDP (Dec 2025–Jun 2026)
 
