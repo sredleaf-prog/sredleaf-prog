@@ -10,9 +10,14 @@ Business consultant turned cybersecurity practitioner. After 10+ years running a
 **Completed:**
 - ✅ AI Cyber Defense Ops (WiCyS / Just Hacking Training) — built a full detection engineering MCP server as capstone (Sigma rules, ATT&CK mappings, Splunk integration, purple team pipeline); certificate issued July 2026
 - ✅ Built a home security lab (Windows + Splunk + Sysmon) to test detections against real attack simulations
-- ✅ CompTIA Security+ SE certified, Google IT Support Professional certified
 - ✅ WiCyS Vulnerability Disclosure Program (VDP) Member Researcher — self-led research under WiCyS's Bugcrowd-hosted VDP (Dec 2025–Jun 2026)
-  
+
+**Certifications:**
+- CompTIA Security+ SE
+- CompTIA ITF+
+- Google IT Support Professional
+- Adobe Generative AI Content Creation 
+
 **What I bring from 10 years in consulting:**
 Translating technical findings into decisions non-technical stakeholders can actually act on — a skill I'm now applying to security reporting and risk communication instead of business operations.
 
