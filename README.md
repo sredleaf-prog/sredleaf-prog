@@ -4,7 +4,7 @@ Business consultant turned cybersecurity practitioner. After 10+ years running a
 
 **Currently:**
 - 🔬 Enrolled in Just Hacking Training's Web App Pentesting – Jr Analyst course
-- 🧑‍🏫 Mentoring high school students through Hack the Town, starting September 17, 2026
+- 🧑‍🏫 Mentoring high school / college students through Hack the Hood
 - 🎯 Aiming toward GRC and SOC roles, with CISO-level leadership as a long-term goal
 
 **Completed:**
