@@ -14,6 +14,7 @@ Business consultant turned cybersecurity practitioner. After 10+ years running a
 - ✅ WiCyS Vulnerability Disclosure Program (VDP) Member Researcher — self-led research under WiCyS's Bugcrowd-hosted VDP (Dec 2025–Jun 2026)
 
 **Certifications:**
+- Script-Based Malware Analysis
 - AI Cyber Defense Ops
 - CompTIA Security+ SE
 - CompTIA ITF+
