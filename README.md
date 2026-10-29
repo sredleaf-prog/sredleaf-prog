@@ -24,6 +24,6 @@ Business consultant turned cybersecurity practitioner. After 10+ years running a
 **What I bring from 10 years in consulting:**
 Translating technical findings into decisions non-technical stakeholders can actually act on — a skill I'm now applying to security reporting and risk communication instead of business operations.
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tseconsulting) | sredleaf@gmail.com | [Website](https://tseconsultingservi.wixsite.com/home)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tseconsulting) | [Website](https://tseconsultingservi.wixsite.com/home)
 ---
 *Pinned repos below show specific pieces of my hands-on security work — detection rules, automation scripts, and tooling I built and tested myself.*
